@@ -73,7 +73,7 @@ FAISS index must be prebuilt from FCA Handbook (COBS 4).
 
 Best run on GPU (bitsandbytes supported).
 
-Tested on Python 3.10/3.11 (FAISS not supported on 3.12).
+Tested on Python 3.10/3.11.
 
 ---
 
